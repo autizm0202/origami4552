@@ -1,0 +1,23 @@
+h1{
+    color: crimson;
+    
+        border: solid;
+    
+}
+
+.menu{
+    display:flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 25;
+}
+.animal{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: safe;
+
+border: cyan;
+border-style: groove;
+border-radius: 10px;
+
+}
